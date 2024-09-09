@@ -1,4 +1,3 @@
-// test 
 /* 
 SELECT -- 2
     city,state,zip 
